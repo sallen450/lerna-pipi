@@ -1,0 +1,19 @@
+{
+  "name": "pipi-lib1",
+  "version": "0.0.1",
+  "description": "library 1",
+  "author": "sallen450 <qinghua10199@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/lib1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
